@@ -20,7 +20,7 @@ I'm a **Junior Developer** with a passion for learning and growth. I enjoy worki
 - ➕ I have experience in logistics, which adds a unique perspective to my coding approach.
 
 ### 🌐 Socials:
-- [LinkedIn](www.linkedin.com/in/bertholini)
+- [LinkedIn](https://www.linkedin.com/in/bertholini)
 
 ---
 
