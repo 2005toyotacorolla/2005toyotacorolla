@@ -22,8 +22,8 @@ I'm a **Junior Developer** with a passion for learning and growth. I enjoy worki
 ### 🌐 Socials:
 - [LinkedIn](https://www.linkedin.com/in/bertholini)
 
----
 
-# 📊 GitHub Stats:
+
+### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=2005toyotacorolla&theme=github_dark_dimmed&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=2005toyotacorolla&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
